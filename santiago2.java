@@ -19,8 +19,8 @@ System.out.println("Pay this employee $" + pay);
 }
 } 
 public static void main(String[] arguments) { 
-pay(7.5, 35);
-pay(8.2, 47);
-pay(10.0, 73); 
+pay(4.5, 33);
+pay(7.0, 49);
+pay(10.0, 62); 
 }
 }
